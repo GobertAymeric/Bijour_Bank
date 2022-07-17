@@ -1,6 +1,6 @@
 # Bienvenue chez BijourBank
 
-[Démo en ligne](https://gobertaymeric.github.io/bijour_bank/)
+[Démo en ligne](https://gobertaymeric.github.io/Bijour_Bank/)
 
 ![Money Money Money](https://resize-parismatch.lanmedia.fr/img/var/news/storage/images/paris-match/people/leonardo-dicaprio-l-argent-fou-1064176/15215422-1-fre-FR/Leonardo-DiCaprio-l-argent-fou.jpg)
 
